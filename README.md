@@ -1,4 +1,4 @@
-# Data-Modelling-and-Analysis
+# Data Modelling and Analysis
 
 ## Overview
 
