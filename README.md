@@ -1,31 +1,39 @@
 # Data-Modelling-and-Analysis
-Overview
+# Oxfordshire Data Modelling and Analysis
+
+## Overview
+
 This repository contains data and code for the modelling and analysis of housing, broadband, and council tax in different areas of Oxfordshire. The goal of this project is to provide insights into the relationships and patterns within these three key aspects of the Oxfordshire region.
 
-Data Sources
+## Data Sources
+
 The data used in this project is sourced from the following:
 
-Housing Data: [Link to dataset/source]
-Broadband Data: [Link to dataset/source]
-Council Tax Data: [Link to dataset/source]
+- **Housing Data**: [Link to dataset/source]
+- **Broadband Data**: [Link to dataset/source]
+- **Council Tax Data**: [Link to dataset/source]
+
 Please refer to the respective data sources for licensing and usage terms.
 
-Project Structure
+## Project Structure
+
 The repository is organized as follows:
 
-data/: This directory contains the raw and processed datasets.
-notebooks/: Jupyter notebooks used for data cleaning, exploration, modelling, and analysis.
-scripts/: Any custom scripts used in data processing or analysis.
-reports/: Any final reports, visualizations, or presentations.
-README.md: You're reading it!
-Getting Started
+- `data/`: This directory contains the raw and processed datasets.
+- `notebooks/`: Jupyter notebooks used for data cleaning, exploration, modelling, and analysis.
+- `scripts/`: Any custom scripts used in data processing or analysis.
+- `reports/`: Any final reports, visualizations, or presentations.
+- `README.md`: You're reading it!
+
+## Getting Started
+
 To replicate the analysis or explore the data, follow these steps:
 
-Clone this repository to your local machine:
+1. Clone this repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/username/oxfordshire-data-analysis.git
+   ```bash
+   git clone https://github.com/username/oxfordshire-data-analysis.git
+
 Set up your environment. You may use conda, virtualenv, or any other preferred environment manager.
 
 bash
